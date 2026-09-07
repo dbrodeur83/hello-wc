@@ -1,2 +1,2 @@
 print("Hello, WC!")
-print(2+7)
+print(2+1)
